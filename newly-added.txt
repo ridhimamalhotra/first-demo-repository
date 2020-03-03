@@ -1,2 +1,0 @@
-I am newly added file for demonstartaion purpose.
-I edit this file in remote repository.
